@@ -1,0 +1,5 @@
+a. trash
+*.iml
+*.xml
+*.config
+out/*
